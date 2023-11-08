@@ -3,7 +3,7 @@ import Index from ".";
 
 import CountContextProvider from "./provider/CountContextProvider";
 
-console.log("updated")
+console.log("updated 1")
 function App() {
   return (
     <CountContextProvider>
